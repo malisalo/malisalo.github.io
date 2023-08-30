@@ -20,5 +20,6 @@ labels:
 
 ## How to make coding seem as easy as pie
   Just like any other sport, in order to get better at a skill you must constantly practice and challenge yourself.  If you want to get better at running, then you might run 1 mile on the first week and run 2 miles the second week. This concept of exercising your abilities also applies to coding! Constantly challenging yourself to write working and executable code in order to solve a coding problem within minutes is a skill that anyone should be proud of. 
+  
   The concept of solving coding problems or WODS (workout of the day) in a limited amount of time sounded very intimidating at first, however, it also motivated me to constantly test my ability to solve coding problems in an efficient manner. Consistently solving these WODs will become useful to the future generation of software engineers because it sets up a stressful environment to be successful in coding interviews. Every software engineering company wants an employee who can get the job done efficiently. Although these timed coding problems can create a stressful environment for me to work in, this stress is ultimately meant to improve the fluency of future programmers!!!
 
