@@ -1,19 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Once you write in Javascript, other languages can never beat it!"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-08-29
 published: true
 labels:
   - Software Engineering
   - Learning
 ---
+As someone who started learning how to code for the first time with Java, learning Javascript made me realize how simple coding can be! Although I have experience in other coding languages, such as Java, C, and C++, Javascript is so far my favorite language to learn due to its syntax and paradigms that makes it significantly different from other languages. 
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+When I was first learning how to code in Java, I was constantly looking up functions that would convert integers to strings, or doubles to integers. The amount of typing required for Java made the language very difficult to memorize the syntax and debug your code. Now with Javascript, the syntax for your code is heavily simplified because of the use of variable types such as let, var, and const. Each of these variables has different scopes from each other, so it is very important to know when and how to use these variable types. These variable types can easily convert from different variable types to another just by reassigning the variables, instead of using functions like “Integer.toString()”, which is used in Java programs. Just by coding in Javascript, you can save yourself from writing hundreds of lines of unnecessary code. Although there are some downsides of using these variable types, using let, var, and const, makes Javascript programs easy to read and understand, especially for beginners to programing. 
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Javascript has a more flexible syntax compared to other languages such as Java and C. I think this loose syntax can allow programmers to easily create a program for web applications in order to create the most efficient application for their users as soon as possible. Software developers are able to easily create objects in their code without 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+The concept of solving coding problems or WODS (workout of the day) in a limited amount of time sounded very intimidating at first, however, it also motivated me to constantly test my ability to solve coding problems in an efficient manner. Consistently solving these WODs will become useful to the future generation of software engineers because it sets up a stressful environment to be successful in coding interviews. Every software engineering company wants an employee who can get the job done efficiently. Although these timed coding problems can create a stressful environment for me to work in, this stress is ultimately meant to improve the fluency of future programmers!!!
