@@ -11,6 +11,7 @@
       { "network": "github", "username": "malisalo", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "malisalo", "url": "http://linkedin.com/in/malisa-lo-67ab8b289" },
     ],
+  },
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Computer Science" },
@@ -18,6 +19,7 @@
     { "name": "Video Games" },
     { "name": "Art" }
   ],
+},
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -33,6 +35,7 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
   ],
   "work": [
     {
@@ -47,6 +50,7 @@
         "Handles rare Hawaiian and Pacfic materials when requested", 
         "Responsible for delievering exceptional customer service and efficiently working with the team",
       ]
+    },
   ],
   "volunteer": [
     {
@@ -61,6 +65,7 @@
         "Replanted native plants to ecosystem",
         "Cleaned up trash in the area."
       ]
+    },
   ],
   "awards": [
     {
@@ -77,9 +82,10 @@
     },
     {
       "title": "Postl Scholarship Fund for the College of Natural Sciences-University of Hawaii at Mānoa",
-      "date": : "2023",
+      "date": "2023",
       "awarder" : "University of Hawaii at Mānoa - College of Natural Sciences", 
       "summary" : "This scholarship is given to a student who displays great academic accomplishments in their undergraduate career." 
+    },
   ],
   "references": [
     {
