@@ -14,10 +14,10 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Machine Learning" },
+    { "name": "Computer Science" },
     { "name": "Environmental Science" },
     { "name": "Video Games" },
-    { "name": "3D Graphics" }
+    { "name": "Art" }
   ],
   "skills": [
     {
@@ -41,55 +41,49 @@
       "company": "UH Manoa Hawaiian and Public Library",
       "position": "Student Circulation",
       "website": "",
-      "startDate": "2023-03-",
+      "startDate": "2023-03-07",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Has the ability to efficently perform tasks independently",
+        "Handles rare Hawaiian and Pacfic materials when requested", 
+        "Responsible for delievering exceptional customer service and efficiently working with the team",
       ]
     },
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Malama Learning Center ",
+      "website": "https://www.malamalearningcenter.org/",
+      "position": "Environmental Restoration", 
+      "startDate": "2019-2020",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Nānākuli muliwai (estuary) and Piliokahe Beach Park Restoration", 
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Removed invasive species",
+        "Replanted native plants to ecosystem",
+        "Cleaned up trash in the area."
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
       "title": "University of Hawaii at Mānoa Dean’s List",
       "date": "2021-Present",
-      "awarder": "State of Hawaii",
+      "awarder": "University of Hawaii at Mānoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
       "title": "Fred and Annie Chan Scholarship Fund for Information and  Computer Sciences",
       "date": "2022",
-      "awarder": "University of Hawaii at Manoa - Information and  Computer Sciences",
+      "awarder": "University of Hawaii at Mānoa - College of Natural Sciences",
       "summary": "Awarded to an undergraduate student who expresses a great interest in pursuing a career related to computer software engineering and  technology.  "
-    }
+    },
+    {
+      "title": "Postl Scholarship Fund for the College of Natural Sciences-University of Hawaii at Mānoa",
+      "date": : "2023",
+      "awarder" : "University of Hawaii at Mānoa - College of Natural Sciences", 
+      "summary" : "This scholarship is given to a student who displays great academic accomplishments in their undergraduate career." 
   ],
   "references": [
     {
