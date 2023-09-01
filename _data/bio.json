@@ -9,9 +9,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "malisalo", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "malisalo", "url": "http://linkedin.com/in/malisa-lo-67ab8b289" },
     ]
   },
   "interests": [
@@ -26,10 +24,6 @@
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
   ],
   "education": [
     {
@@ -44,10 +38,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Hawaiian and Public Library",
+      "position": "Student Circulation",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-03-",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -55,18 +49,6 @@
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
@@ -97,16 +79,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "University of Hawaii at Mānoa Dean’s List",
+      "date": "2021-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Fred and Annie Chan Scholarship Fund for Information and  Computer Sciences",
+      "date": "2022",
+      "awarder": "University of Hawaii at Manoa - Information and  Computer Sciences",
+      "summary": "Awarded to an undergraduate student who expresses a great interest in pursuing a career related to computer software engineering and  technology.  "
     }
   ],
   "references": [
