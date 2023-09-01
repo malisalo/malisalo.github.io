@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/art-mural.jpg
 title: "Anti-Bullying Art Mural"
 date: 2019
 published: true
