@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pig-game.png
+image: img/pig-game.jpg
 title: "Two Dice Pig Game"
 date: 2021
 published: true
