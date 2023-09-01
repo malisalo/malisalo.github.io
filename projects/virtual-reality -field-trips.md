@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/vr-fieldtrip.jpg
 title: "Virtual Reality Field Trips"
 date: 2020
 published: true
