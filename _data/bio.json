@@ -10,8 +10,7 @@
     "profiles": [
       { "network": "github", "username": "malisalo", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "malisalo", "url": "http://linkedin.com/in/malisa-lo-67ab8b289" },
-    ]
-  },
+    ],
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Computer Science" },
@@ -34,7 +33,6 @@
       "endDate": "Present",
       "courses": [
       ]
-    }
   ],
   "work": [
     {
@@ -49,7 +47,6 @@
         "Handles rare Hawaiian and Pacfic materials when requested", 
         "Responsible for delievering exceptional customer service and efficiently working with the team",
       ]
-    },
   ],
   "volunteer": [
     {
@@ -64,7 +61,6 @@
         "Replanted native plants to ecosystem",
         "Cleaned up trash in the area."
       ]
-    },
   ],
   "awards": [
     {
