@@ -15,6 +15,8 @@ I never knew how simple programming could be until I started learning Javascript
 ## Get a taste of Javascript
 When I was first learning how to code in Java, I was constantly receiving type errors from the variables and functions that I was using in my code. Since Javascript is a dynamically typed language, the programming language defines variables with let, var, and const which does not restrict a variable to a specific type. This concept is very different from Java but it makes writing code simpler. A lot of programmers, including myself, favor Javascript due to its simplicity with variable types. I can fully understand why Javascript is so commonly used in Software Engineering!
 
+<img src="../img/javascript/javascript-code.jpg" width= "600">
+
 ## Dynamically typed programming can save you hours of work!
 Javascript has a more flexible and simple syntax compared to other languages such as Java and C. I think this loose syntax can allow programmers to easily create the most efficient applications for their users as soon as possible. Compared to a coding language like Java and C, fixing multiple type errors that are in your program can take some time to fix in order to make your code executable. By coding in Javascript, you can save yourself from writing hundreds of lines of unnecessary code. 
 
