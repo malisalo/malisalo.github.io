@@ -17,6 +17,6 @@ In order to spread kindness to my old high school, I painted a mural in the hall
 
 ## Overcoming challenges
 
-Some of the challenges that I have faced with this project was the surface of the wall that the mural was being painted on. The wall had a brick pattern which made some parts of the wall more difficult to paint on. This mural took a whole semester to complete because we could only paint the wall during certain times of the day. During this project, there were times where painting would be enjoyable, but frustrating at the same. Through painting, I was able to practice my creative and art skills, while also learning how to efficiently work in a team. 
+Some of the challenges that I have faced with this project was the surface of the wall that the mural was being painted on. The wall had a brick pattern which made some parts of the wall more difficult to paint on. This mural took a whole semester to complete because we could only paint during certain times of the day. During this project, there were times where painting would be enjoyable, but frustrating at the same. Through painting, I was able to practice my creativity and art skills, while also learning how to efficiently work in a team. 
 
 

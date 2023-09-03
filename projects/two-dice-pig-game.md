@@ -18,6 +18,6 @@ The program first asks the user for the amount of players that are playing and f
 <img src="../img/two-dice-pig-game/two-pig-game-console.jpg" width= "400">
 
 ## So many errors!!!
-While creating this program, I have encountered many issues with the “if” statements and “while”  statements. When I was taking ICS 111, I was a beginner at coding, so thinking of the different situations was challenging for me. One of the biggest issues that I had with this assignment was trying to get the game to continue running until there was a winner. Commenting on all of the situations that can occur for the game that has helped me complete this project. This assignment has allowed me to critically evaluate which conditions are needed in order to make this program work. 
+While creating this program, I have encountered many issues with the “if” statements and “while”  statements. When I was taking ICS 111, I was a beginner at coding, so thinking of the different situations was challenging for me. One of the biggest issues that I had with this assignment was trying to get the game to continue running until there was a winner. Commenting on all of the situations that can occur in the game that has helped me complete this project. This assignment has allowed me to critically evaluate which "if" and "while" statements are needed in order to make this program work. 
 
 
