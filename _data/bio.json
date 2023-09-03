@@ -9,8 +9,8 @@
     "location": { "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "malisalo", "url": "http://github.com/malisalo" },
-      { "network": "linkedin", "username": "malisalo", "url": "http://linkedin.com/in/malisa-lo-67ab8b289" },
-    ],
+      { "network": "linkedin", "username": "malisalo", "url": "http://linkedin.com/in/malisa-lo-67ab8b289" }
+    ]
   },
   "interests": [
     { "name": "Software Engineering" },
@@ -19,12 +19,11 @@
     { "name": "Video Games" },
     { "name": "Art" }
   ],
-},
   "skills": [
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "Javascript" ]
-    },
+    }
   ],
   "education": [
     {
@@ -35,7 +34,7 @@
       "endDate": "Present",
       "courses": [
       ]
-    },
+    }
   ],
   "work": [
     {
@@ -48,9 +47,9 @@
       "highlights": [
         "Has the ability to efficently perform tasks independently",
         "Handles rare Hawaiian and Pacfic materials when requested", 
-        "Responsible for delievering exceptional customer service and efficiently working with the team",
+        "Responsible for delievering exceptional customer service and efficiently working with the team"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -65,7 +64,7 @@
         "Replanted native plants to ecosystem",
         "Cleaned up trash in the area."
       ]
-    },
+    }
   ],
   "awards": [
     {
@@ -85,10 +84,11 @@
       "date": "2023",
       "awarder" : "University of Hawaii at Mānoa - College of Natural Sciences", 
       "summary" : "This scholarship is given to a student who displays great academic accomplishments in their undergraduate career." 
-    },
+    }
   ],
   "references": [
     {
       "name": "Available upon request"
     }
   ]
+}
