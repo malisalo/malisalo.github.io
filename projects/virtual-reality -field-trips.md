@@ -11,6 +11,7 @@ labels:
 
 summary: "My team created virtual reality field trips on different conversation sites in Oahu."
 ---
+<img src="../img/vr-field-trip/turtle.jpg" width="800">
 I created virtual reality field trips for the different conservation sites around Oahu in order to make learning accessible for individuals who are unable to physically attend because of disabilities, COVID-19, or personal reasons. The virtual reality field trips were meant to recreate these real life learning experiences and also shed light on the environmental issues that are occuring on our island. I created trips for the Nanakuli Wetland, Palehua, and Piliokahe Beach Park. These sites are currently suffering from environmental issues, such as erosion, pollution, and coral bleaching. While on the actual conservation site, I also made time to volunteer by cleaning up these polluted areas and planting Native Hawaiian plants in order to resolve the erosion issue at these sites.
 
 ## How I made these Field Trips come to life
