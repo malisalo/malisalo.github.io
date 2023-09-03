@@ -19,7 +19,7 @@ I created virtual reality field trips for the different conservation sites aroun
 ## How I made these Field Trips come to life
 In order to gain access to these conversation sites, me and my team collaborated with KUPU and Malama Learning Center, which are both non-profit organizations that focus on environmental conversation around Oahu. I gathered my information from the advisors, in order to gain a better understanding of how their volunteer work is making a positive contribution to the environment. In order to gather high quality photos of these sites, I used a drone and a 360° camera. My team and I also used a website called “Thinglink” to display all of the pictures and information about these sites. At the end of my project, I got the chance to showcase my project at the Hawaii Agriculture Conference and the Hawaii Conservation Conference to other environmental organizations around Hawaii.
 
-<img class="img-fluid" src="../img/vr-field-trip/camp.jpg" width= "600">
+<img class="img-fluid" src="../img/vr-field-trip/camp.jpg" width= "800">
 
 Throughout this project, I was able to see the different areas of Oahu that need our help and attention. Learning about the different Native Hawaiian plants and their cultural significance to Hawaiian culture was something that was never taught inside the classroom. These VR field trips served a purpose of bringing environmental awareness to Oahu, and recreating these experiences on a device.
 
