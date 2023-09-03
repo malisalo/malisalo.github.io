@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pig-game.jpg
+image: img/two-dice-pig-game/pig-game.jpg
 title: "Two Dice Pig Game"
 date: 2021
 published: true
@@ -14,6 +14,7 @@ For my ICS 111 assignment, I created a Two Dice Pig Dice game in Java. This was 
 
 ## Dice and Pigs? What is this game about?
 The program asks the user for the amount of players that are playing and for their name. When it's a player’s turn, they must roll 2 dice. If the player rolls a 1 on one of their dice, then they don't earn any points. If they roll 1’s on both of the dice, then the player loses all of their points. If the player does not roll any 1’s then they earn points and they can choose to roll again. However, if they roll doubles on their dice (that are not 1’s), then the player gains points but they are forced to roll again. The first player to 100 points wins the game. 
+<img src="../img/two-dice-pig-game/two-pig-game-console.jpg">
 
 ## So many errors!!!
 While creating this program, I have encountered many issues with the “if” statements and “while”  statements. During this time of the assignment, I was a beginner at coding so thinking of the different situations was difficult for me. One of the biggest issues that I had with this assignment was trying to get the game to continue running until there was a winner. Commenting on all of the situations that can occur for the game that has helped me complete this project. This assignment has allowed me to critically evaluate which conditions are needed in order to make this program work. 
