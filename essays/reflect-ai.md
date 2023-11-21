@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "AI in the Classroom: Cheating or Learning?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-20
 published: true
