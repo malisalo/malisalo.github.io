@@ -10,7 +10,7 @@ labels:
   - Artificial Intelligence
   - Education
 ---
-<img src="../img/ai-essay/ai-image.jpeg">
+<img src="../img/ai-essay/ai-image.jpeg" width="600px">
 <h1>I. Introduction:</h1>
 This year was a big step for AI tools to play a prevalent role in the learning process, particularly in Software Engineering. In ICS 314, I found AI tools to be exceptionally helpful in learning about a coding concept, debugging my code, and getting a better understanding of why an algorithm may work. ICS 314 was a fast paced course where students had to learn a new coding language and frameworks in a limited amount of time. Tools like ChatGPT can provide a well-detailed explanation of difficult coding concepts and problems that students may bump into during their Software Engineering journey.
 
@@ -44,13 +44,13 @@ I haven't used AI to ask any smart questions. I think questions are more persona
 I have used AI tools to give out coding examples. One of the ways that I have used ChatGPT was to give example code for React components like setState() and useState(). I think learning React was the most challenging part of this course because of how different it is to coding in my previous classes. Having ChatGPT write out coding examples allowed me to understand these concepts a little better.
 
 <h3>10. Explaining code:</h3>
-I have used AI tools to explain code to me. When I was learning how to use React components, I found myself asking ChatGPT, “Explain this piece of code to me: <Code>.” I would use ChatGPT this way multiple times. It saved me time and helped me learn a lot in this course.
+I have used AI tools to explain code to me. When I was learning how to use React components, I found myself asking ChatGPT, “Explain this piece of code to me: (Code).” I would use ChatGPT this way multiple times. It saved me time and helped me learn a lot in this course.
 
 <h3>11. Writing code:</h3>
 I have not used AI to write code for me because sometimes ChatGPT would give out code that is not the best solution for my project. For example, copying and pasting code into my final project was not the best option for me because the AI generated solution would not work for the 5 other files within my project. For big coding projects, I think you are better off learning concepts that can guide you to the right solution, and using what you learned to figure out your own solution.
 
 <h3>12. Documenting code:</h3>
-I have used AI tools to document code for my final project. In our final project, there are multiple files that we have to go look through and comment out. Doing this by hand was very time consuming, so I found that using ChatGPT to comment out my code for me was very efficient. I used ChatGPT with this template: “Comment out this code: <Code>.” Surprisingly, ChatGPT writes very clear and understandable comments.
+I have used AI tools to document code for my final project. In our final project, there are multiple files that we have to go look through and comment out. Doing this by hand was very time consuming, so I found that using ChatGPT to comment out my code for me was very efficient. I used ChatGPT with this template: “Comment out this code: (Code).” Surprisingly, ChatGPT writes very clear and understandable comments.
 
 <h3>13. Quality assurance:</h3>
 I have not used AI tools for quality assurance because I think figuring out your own errors is part of your learning process in ICS 314. Learning how to fix your own ESLint and coding errors should be a skill that you should practice in your own Software Engineering career. However, if you find yourself spending too much time on fixing these errors, then I think AI is a great option for help.
