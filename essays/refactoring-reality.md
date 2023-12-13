@@ -10,7 +10,9 @@ labels:
   - Learning
   - Reflection
 ---
+
 <img src="../img/se-reflect/software-developing-team.avif" width= "600">
+
 When it comes to software engineering, the first thing that often comes to mind is web development—designing websites for companies or personal reasons. However, software engineering encompasses much more than just web development. Through ICS 314, I learned that it involves community involvement and creating applications beneficial to the public.
 
 ## Open Source Software Development
