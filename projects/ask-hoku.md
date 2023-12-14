@@ -53,3 +53,10 @@ Through this project, I gained a lot of knowledge about Meteor’s functionality
 
 Beyond the React components and features of Meteor, this project taught me a lot about teamwork in Software Engineering. Previously to this project, I would only develop coding projects on my own. Using websites, like Github, to share my code was a very new experience for me. Github provides features that allow you to organize the tasks that need to be completed by each group member. Using this to-do feature really helped me and my team members stay on track on finishing our application by the deadline.
 This project has been a valuable experience for me and my Software Engineering career. I was opened to many opportunities through this project. Because of our constant commitment to this project, I hope that our application will go beyond ICS 314 and be used by many people within the UH community. I can’t wait to see what opportunities and challenges that we will face by continuing to work on this project in the future!
+
+Special thanks to my Hawaii Annual Code Challenge team: [Micah Tilton](https://www.linkedin.com/in/micah-tilton-0a4b65289) and [Kaylee Agorilla](https://www.linkedin.com/in/kayleeagorilla/)! 
+
+## Check out our project!
+- [GitHub Pages](https://darkmode-askus.github.io/)
+- [GitHub Repositories](https://github.com/darkmode-askus/darkmode-askus)
+- [Deployed Website](http://143.198.151.26/)
