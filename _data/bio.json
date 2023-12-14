@@ -45,9 +45,21 @@
       "endDate": "Present",
       "summary": "Circulate rare Hawaiian and Pacific materials at Hamilton Library",
       "highlights": [
-        "Has the ability to efficently perform tasks independently",
-        "Handles rare Hawaiian and Pacfic materials when requested", 
-        "Responsible for delievering exceptional customer service and efficiently working with the team"
+        "Preserving and maintaining the conditions of rare Hawaiian and Pacific photographs, maps, documents, and other materials that are found in the library. ",
+        "Responsible for delivering exceptional customer service and efficiently working with the team to circulate library materials to the community.",
+        "Completing monthly statistics of the amount of patrons and materials that was requested from the Hawaiian and Pacific Collections library. "
+      ]
+    },
+    {
+      "company": "KUPU and Kōkua Hawaiʻi Foundation",
+      "position": "Hawai’i Youth Sustainability Challenge",
+      "website": "",
+      "startDate": "2019",
+      "summary": "Created virtual reality field trips to spread environmental awareness within Oahu.",
+      "highlights": [
+        "Created virtual reality field trips for the different conservation sites around Oahu in order to make learning accessible for individuals who are unable to physically attend because of disabilities, COVID-19, or personal reasons.",
+        "Presented at the Hawaii Agriculture Conference and Hawaii Conservation Conference to showcase how virtual reality field trips can bring environmental awareness on the island of Oahu.",
+        "Researched environmental issues and solutions being done on conversation sites. These sites include the Nanakuli Wetland, Palehua, and Piliokahe Beach Park. "
       ]
     }
   ],
@@ -55,10 +67,10 @@
     {
       "organization": "Malama Learning Center ",
       "website": "https://www.malamalearningcenter.org/",
-      "position": "Environmental Restoration", 
+      "position": "Environmental Restoration",
       "startDate": "2019-2020",
       "endDate": "Present",
-      "summary": "Nānākuli muliwai (estuary) and Piliokahe Beach Park Restoration", 
+      "summary": "Nānākuli muliwai (estuary) and Piliokahe Beach Park Restoration",
       "highlights": [
         "Removed invasive species",
         "Replanted native plants to ecosystem",
@@ -67,6 +79,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Hawaii Annual Code Challenge 2023, 2nd Place Coded Solution",
+      "date": "2023",
+      "awarder": "The State of Hawaii Office of Enterprise Technology Services",
+      "summary": "Created a ChatBot using Artificial Intelligence and Machine Learning to answer user's ITS related requests. This solution was meant to improve the current ITS AskUs keyword search and reduce Help Desk calls."
+    },
     {
       "title": "University of Hawaii at Mānoa Dean’s List",
       "date": "2021-Present",
@@ -82,8 +100,8 @@
     {
       "title": "Postl Scholarship Fund for the College of Natural Sciences-University of Hawaii at Mānoa",
       "date": "2023",
-      "awarder" : "University of Hawaii at Mānoa - College of Natural Sciences", 
-      "summary" : "This scholarship is given to a student who displays great academic accomplishments in their undergraduate career." 
+      "awarder" : "University of Hawaii at Mānoa - College of Natural Sciences",
+      "summary" : "This scholarship is given to a student who displays great academic accomplishments in their undergraduate career."
     }
   ],
   "references": [
