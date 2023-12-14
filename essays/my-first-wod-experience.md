@@ -4,6 +4,7 @@ type: essay
 title: "My nerve-racking first WOD experience!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-04
+published: false
 draft: true
 labels:
   - Software Engineering

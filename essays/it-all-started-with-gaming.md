@@ -4,6 +4,7 @@ type: essay
 title: "It all started with gaming..."
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
+published: false
 draft: true
 labels:
   - Software Engineering
