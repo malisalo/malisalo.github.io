@@ -10,6 +10,8 @@ labels:
 - Software Engineering
 - Reflection
 ---
+<img src="../img/design-patterns/design-patterns.png" width="600px">
+
 ## Introducing Design Patterns...
 If you are an owner of a bakery that is known for its delicious desserts, consistency in taste and providing exceptional service to customers are crucial goals. In order to make your bakery the best in town, you have designed different solutions in order to address recurring problems that you see in your business operations. Although software engineers typically don’t bake cakes, they similarly develop solutions to recurring problems within their code, known as Design Patterns. Failing to implement design patterns in your software engineering projects can resemble baking one batch of cookies overly sweet and another batch far too bland. Such inconsistency lacks organizational structure and coherence. You want to have a recipe for your pastries that is understandable and clear for your workers to bake the desserts perfectly. In the future, you can reuse recipes for a vanilla cake to make a chocolate cake with some alterations. In software engineering, you will be working with other groups of people, so making understandable and reusable code is crucial just like how it is for baking pastries.
 
