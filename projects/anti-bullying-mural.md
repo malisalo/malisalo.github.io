@@ -4,7 +4,7 @@ type: project
 image: img/art-mural/art-mural.jpg
 title: "Anti-Bullying Art Mural"
 date: 2019
-published: true
+published: false
 labels:
   - Art
   - Anti-Bullying
