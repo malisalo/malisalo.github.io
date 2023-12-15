@@ -16,7 +16,7 @@ summary: "My team and I created a Chatbot that will respond to user's ITS relate
 
 ## Check out our project!
 - [GitHub Pages](https://darkmode-askus.github.io/)
-- [GitHub Repositories](https://github.com/darkmode-askus/darkmode-askus)
+- [GitHub Repository](https://github.com/darkmode-askus/darkmode-askus)
 - [Deployed Website](http://143.198.151.26/)
 
 Can’t connect to the wifi? Have no clue how to set up user authentication? Not everyone is naturally tech savvy these days, and we sometimes require extra assistance. But who is there to help thousands of University of Hawaii students and staff whenever and wherever they need it?
