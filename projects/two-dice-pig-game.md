@@ -10,6 +10,8 @@ labels:
   - Java
 summary: "For my ICS 111, I created a Two Dice Pig Game using Java"
 ---
+<img src="../img/two-dice-pig-game/pig-game.jpg" width= "300">
+
 For my ICS 111 assignment, I created a Two Dice Pig Dice game in Java. This was one of the first games that I created while learning how to program. Because I didn’t know much about programming, this assignment was very challenging for me. However, I gained a better understanding of the use of Math.random(), “while” statements, and “if” statements, which are all used to follow the rules of the game and for the program to continue running until there is a winner.  
 
 ## Dice and Pigs? What is this game about?
