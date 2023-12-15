@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="AskHoku - ITS ChatBot | Malisa Lo | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/malisalo.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Malisa Lo | Professional Portfolio">
+    <meta property="og:url" content="https://malisalo.github.io/projects/ask-hoku.html">
+    <meta property="og:title" content="AskHoku - ITS ChatBot | Malisa Lo | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/malisalo.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>AskHoku - ITS ChatBot | Malisa Lo | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Malisa Lo</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">AskHoku - ITS ChatBot</h1>
+ <p><img src="../img/ask-hoku/hoku-pfp.png" width="400" /></p>
+
+<h2 id="check-out-our-project">Check out our project!</h2>
+<ul>
+  <li><a href="https://darkmode-askus.github.io/">GitHub Pages</a></li>
+  <li><a href="https://github.com/darkmode-askus/darkmode-askus">GitHub Repository</a></li>
+  <li><a href="http://143.198.151.26/">Deployed Website</a></li>
+</ul>
+
+<p>Can’t connect to the wifi? Have no clue how to set up user authentication? Not everyone is naturally tech savvy these days, and we sometimes require extra assistance. But who is there to help thousands of University of Hawaii students and staff whenever and wherever they need it?</p>
+
+<p>The current UH ITS AskUs web page has an outdated search system which makes it difficult for users to find the answers that they are looking for. Simple searches like “How do I connect to the wifi?”, gives out a list of articles for the user to look through. This can be very time consuming for users to use just to find an answer to a simple question. Because of the non-user friendly design of the current ITS website, many users go to a Help Desk assistant instead of using the current Ask Us search bar.</p>
+
+<p>Our team created a ChatBot, named Hoku, with the use of modern AI tools that will improve on the current search functionality. When the user sends their question to Hoku, Hoku responds to the user with a complete and conversational response in seconds. Our solution provides a 24/7 conversational service to users so that they can receive the assistance that they need.</p>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p><img src="../img/ask-hoku/chatbot.png" width="500" /></p>
+
+<p>When a user asks Hoku a question, Hoku will search for relevant chunks of data in ITS related articles and websites. Based on the similarity, Hoku will first look in the FAQ database, which contains answers that admins have provided. If there is no similarity in the FAQ database, then Hoku will look for similarities within the ITS articles and websites. When a similar context is found, with Open AI’s GPT 3.5 turbo instruct model, Hoku is prompted to only answer questions based on the information given. Hoku is instructed to give clear and concise answers only based on UH’s information.</p>
+
+<p>Using GPT 3.5 had some security issues because of the possibility of users to send requests that are meant to manipulate AI into performing unauthorized actions for malicious purposes. This is commonly known as prompt injections. To prevent Hoku from complying with prompt injections, we use a Naive Bayes TF-IDF prompt injection classifier that was trained on a dataset of 600 labeled prompts. This classifier will check if the user’s question is likely to be a prompt injection, and if so, then Hoku will not comply with the user’s question or request.</p>
+
+<h3 id="report-and-faq-system">Report and FAQ System</h3>
+
+<p><img src="../img/ask-hoku/reports.png" width="500" /></p>
+
+<p>Sometimes the user may not be satisfied with Hoku’s response to their question. By pressing on the icon located at the top right corner of Hoku’s answer, the user can view the ITS articles and websites that Hoku got her answer from.</p>
+
+<p>If the user is still not satisfied with Hoku’s response or the recommended articles, then the user can report it for admins to resolve. Our report system allows admins to view and stay updated with issues that Hoku may produce. Users are able to report Hoku’s answers by checkmarking categories or by leaving a comment. This gets sent to the admin, where they can submit the correct/updated answer to the user’s question. The admin’s submission is saved in a database of FAQs. When the same or very similar question is asked again, Hoku will respond with the new answer that the admin has provided.</p>
+
+<h3 id="community-forum-page">Community Forum Page</h3>
+
+<p><img src="../img/ask-hoku/forum.png" width="500" /></p>
+
+<p>Hoku may not have all of the answers to users’ questions, so a community forum page was made for users to post their questions. Other users in the UH community can respond, creating an interactive space for assistance and recommendations. Users also have the option to edit their posts for corrections or updates. Our website also allows admins to monitor and remove posts violating school policy. Admins can delete inappropriate posts but cannot edit others’ contributions unless authored by them.</p>
+
+<h2 id="contributions-to-the-project">Contributions to the project</h2>
+<p>In this project, my main focus was the homepage UI and crafting Hoku’s appearance. Through trial and error, I created a user-friendly homepage, facilitating easy access for users seeking ITS help and information. Using CSS animation on the homepage and the chatbot, me and my team were able to make Hoku slide onto the screen and send a welcome message to the user when the webpage is first loaded in. This might seem like a simple and easy concept, but the implementation was complex and difficult. Additionally, I used Adobe Illustrator to create Hoku’s face for aesthetic appeal, which many of the AskHoku users enjoyed.</p>
+
+<p>Another significant contribution that I had to the project was developing the community forum page. Me and my team aimed for a simple interface allowing users to upload, edit, delete their posts, and comment upon logging into AskHoku. Specifically, edit and delete options are available only for the post’s author. I also took in considerations for admins to manage the community forum page. From the admin’s side, they are able to delete any posts on the page, but are not allowed to make edits to other user’s posts. This required learning to check user IDs and roles in Meteor to manage access for editing or deleting posts.</p>
+
+<h2 id="what-i-learned-from-the-project">What I learned from the project</h2>
+
+<p><img src="../img/ask-hoku/darkmode-hoku.png" width="600" /></p>
+
+<p>Through this project, I gained a lot of knowledge about Meteor’s functionality and how to use React to render and design web applications. With my limited experience in web development, understanding React components was probably one of the most difficult parts of this project. Yet, by referencing React’s documentation and constantly testing out the website, I was able to gradually complete the tasks that I was assigned to. React components like ‘useState’ and ‘setState’ are some of the commonly used components in our application. These components were difficult to gain a good grasp on the functionality, however, me and my team were able to learn how to use these components correctly in order to create our final product.</p>
+
+<p>Beyond the React components and features of Meteor, this project taught me a lot about teamwork in Software Engineering. Previously to this project, I would only develop coding projects on my own. Using websites, like Github, to share my code was a very new experience for me. Github provides features that allow you to organize the tasks that need to be completed by each group member. Using this to-do feature really helped me and my team members stay on track on finishing our application by the deadline.
+This project has been a valuable experience for me and my Software Engineering career. I was opened to many opportunities through this project. Because of our constant commitment to this project, I hope that our application will go beyond ICS 314 and be used by many people within the UH community. I can’t wait to see what opportunities and challenges that we will face by continuing to work on this project in the future!</p>
+
+<p>Special thanks to my Hawaii Annual Code Challenge team: <a href="https://www.linkedin.com/in/micah-tilton-0a4b65289">Micah Tilton</a> and <a href="https://www.linkedin.com/in/kayleeagorilla/">Kaylee Agorilla</a>!</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

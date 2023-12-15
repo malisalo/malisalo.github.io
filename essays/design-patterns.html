@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Are Design Patterns setting you up for success or failure? | Malisa Lo | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/malisalo.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Malisa Lo | Professional Portfolio">
+    <meta property="og:url" content="https://malisalo.github.io/essays/design-patterns.html">
+    <meta property="og:title" content="Are Design Patterns setting you up for success or failure? | Malisa Lo | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/malisalo.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Are Design Patterns setting you up for success or failure? | Malisa Lo | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Malisa Lo</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Are Design Patterns setting you up for success or failure?</h1>
+  <span class="date">29 Nov 2023</span>
+  <hr>
+  <p><img src="../img/design-patterns/design-patterns.png" width="600px" /></p>
+
+<h2 id="introducing-design-patterns">Introducing Design Patterns…</h2>
+<p>If you are an owner of a bakery that is known for its delicious desserts, consistency in taste and providing exceptional service to customers are crucial goals. In order to make your bakery the best in town, you have designed different solutions in order to address recurring problems that you see in your business operations. Although software engineers typically don’t bake cakes, they similarly develop solutions to recurring problems within their code, known as Design Patterns. Failing to implement design patterns in your software engineering projects can resemble baking one batch of cookies overly sweet and another batch far too bland. Such inconsistency lacks organizational structure and coherence. You want to have a recipe for your pastries that is understandable and clear for your workers to bake the desserts perfectly. In the future, you can reuse recipes for a vanilla cake to make a chocolate cake with some alterations. In software engineering, you will be working with other groups of people, so making understandable and reusable code is crucial just like how it is for baking pastries.</p>
+
+<h2 id="meteors-implementation-of-design-patterns">Meteor’s implementation of Design Patterns</h2>
+<p>While working on the Hawaii Annual Code Challenge (HACC) along with my 2 group members, the concept of design patterns were unclear. Our primary goal was to quickly incorporate diverse features and functionalities into our application. However, creating code that followed these design patterns led to many challenges. Since we used Meteor as our development platform, it simplified our solutions for complex problems and allowed us to implement certain aspects of these design patterns.</p>
+
+<p>One noteworthy feature in our project is the report system, which allowed users to flag chatbot messages that they believe are inappropriate, incorrect, or lack useful information. To manage this data, we saved it within a MongoDB collection. When a report is submitted, the MongoDB is updated , triggering a rerun of anything subscribed to the collection. In this case, the reports page was subscribed to the ‘reports’ MongoDB collection and the code is rerun in order to display the updated reports.</p>
+
+<p>Meteor’s “reactivity” is an example of the Observer design pattern, where changes in data trigger automatic updates to the subscribers in the application. By implementing this design pattern, we were able to reuse this code easily for our FAQ page, with some minor alterations. This saved us some time while also using a small amount of code:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const ReportsPage = () =&gt; {
+  // Reactive data for the reports database
+  const reports = useTracker(() =&gt; ReportCollection.find({}).fetch());
+
+</code></pre></div></div>
+
+<h2 id="should-everyone-use-design-patterns">Should everyone use Design Patterns?</h2>
+<p>Several design patterns can often be complex and difficult to understand, leading some software engineers to misuse them to inappropriate problems. This misuse can make your code more complicated rather than solving the actual problem. Although me and my teammates did not use all of the different design patterns, we didn’t want to write code in a way where we couldn’t understand what we were doing. I think some software engineers attempt to implement design patterns without a complete grasp of their concepts, sometimes driven by time constraints or lack of motivation. I’ve personally found myself in situations where I just need to get my code working, only to realize that this way of coding is more detrimental to my software engineering learning than any good. Although me and my teammates did not implement all of the different design patterns into our project, we built our project with the purpose of learning more about software engineering. If you are a complete beginner to software engineering, I think it is totally fine to not implement some design patterns in your code right away. Get down the basics first, then you can slowly learn about all of the different types of design patterns. With years of experience and practice, you can make design patterns seem as simple as pie!</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

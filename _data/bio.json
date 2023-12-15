@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Malisa Lo",
+    "label": "Student",
+    "picture": "https://github.com/malisalo.png",
+    "email": "malisalo@hawaii.edu",
+    "website": "https://malisalo.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "malisalo", "url": "http://github.com/malisalo" },
+      { "network": "linkedin", "username": "malisalo", "url": "http://linkedin.com/in/malisa-lo-67ab8b289" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Computer Science" },
+    { "name": "Environmental Science" },
+    { "name": "Video Games" },
+    { "name": "Art" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "Bootstrap", "Meteor", "React.js" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Hawaiian and Public Library",
+      "position": "Student Circulation",
+      "website": "",
+      "startDate": "2023-03-07",
+      "endDate": "Present",
+      "summary": "Circulate rare Hawaiian and Pacific materials at Hamilton Library",
+      "highlights": [
+        "Preserving and maintaining the conditions of rare Hawaiian and Pacific photographs, maps, documents, and other materials that are found in the library. ",
+        "Responsible for delivering exceptional customer service and efficiently working with the team to circulate library materials to the community.",
+        "Completing monthly statistics of the amount of patrons and materials that was requested from the Hawaiian and Pacific Collections library. "
+      ]
+    },
+    {
+      "company": "KUPU and Kōkua Hawaiʻi Foundation",
+      "position": "Hawai’i Youth Sustainability Challenge",
+      "website": "",
+      "startDate": "2019",
+      "summary": "Created virtual reality field trips to spread environmental awareness within Oahu.",
+      "highlights": [
+        "Created virtual reality field trips for the different conservation sites around Oahu in order to make learning accessible for individuals who are unable to physically attend because of disabilities, COVID-19, or personal reasons.",
+        "Presented at the Hawaii Agriculture Conference and Hawaii Conservation Conference to showcase how virtual reality field trips can bring environmental awareness on the island of Oahu.",
+        "Researched environmental issues and solutions being done on conversation sites. These sites include the Nanakuli Wetland, Palehua, and Piliokahe Beach Park. "
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Malama Learning Center ",
+      "website": "https://www.malamalearningcenter.org/",
+      "position": "Environmental Restoration",
+      "startDate": "2019-2020",
+      "endDate": "Present",
+      "summary": "Nānākuli muliwai (estuary) and Piliokahe Beach Park Restoration",
+      "highlights": [
+        "Removed invasive species",
+        "Replanted native plants to ecosystem",
+        "Cleaned up trash in the area."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hawaii Annual Code Challenge 2023, 2nd Place Coded Solution",
+      "date": "2023",
+      "awarder": "The State of Hawaii Office of Enterprise Technology Services",
+      "summary": "Created a ChatBot using Artificial Intelligence and Machine Learning to answer user's ITS related requests. This solution was meant to improve the current ITS AskUs keyword search and reduce Help Desk calls."
+    },
+    {
+      "title": "University of Hawaii at Mānoa Dean’s List",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Fred and Annie Chan Scholarship Fund for Information and  Computer Sciences",
+      "date": "2022",
+      "awarder": "University of Hawaii at Mānoa - College of Natural Sciences",
+      "summary": "Awarded to an undergraduate student who expresses a great interest in pursuing a career related to computer software engineering and  technology.  "
+    },
+    {
+      "title": "Postl Scholarship Fund for the College of Natural Sciences-University of Hawaii at Mānoa",
+      "date": "2023",
+      "awarder" : "University of Hawaii at Mānoa - College of Natural Sciences",
+      "summary" : "This scholarship is given to a student who displays great academic accomplishments in their undergraduate career."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
