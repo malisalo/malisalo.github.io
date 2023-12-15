@@ -10,7 +10,7 @@ labels:
   - Web Development
   - Natural Language Processing 
 
-summary: "Me and my team created a Chatbot that will respond to user's ITS related requests in conversational language. We placed 2nd place at the Hawaiian Annual Code Challenge for Coded solutions."
+summary: "My team and I created a Chatbot that will respond to user's ITS related requests in conversational language. We placed 2nd place at the Hawaiian Annual Code Challenge for Coded solutions."
 ---
 Can’t connect to the wifi? Have no clue how to set up user authentication? Not everyone is naturally tech savvy these days, and we sometimes require extra assistance. But who is there to help thousands of University of Hawaii students and staff whenever and wherever they need it?
 
