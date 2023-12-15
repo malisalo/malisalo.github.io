@@ -12,6 +12,11 @@ labels:
 
 summary: "My team and I created a Chatbot that will respond to user's ITS related requests in conversational language. We placed 2nd place at the Hawaiian Annual Code Challenge for Coded solutions."
 ---
+## Check out our project!
+- [GitHub Pages](https://darkmode-askus.github.io/)
+- [GitHub Repositories](https://github.com/darkmode-askus/darkmode-askus)
+- [Deployed Website](http://143.198.151.26/)
+
 Can’t connect to the wifi? Have no clue how to set up user authentication? Not everyone is naturally tech savvy these days, and we sometimes require extra assistance. But who is there to help thousands of University of Hawaii students and staff whenever and wherever they need it?
 
 The current UH ITS AskUs web page has an outdated search system which makes it difficult for users to find the answers that they are looking for. Simple searches like “How do I connect to the wifi?”, gives out a list of articles for the user to look through. This can be very time consuming for users to use just to find an answer to a simple question. Because of the non-user friendly design of the current ITS website, many users go to a Help Desk assistant instead of using the current Ask Us search bar.
@@ -54,9 +59,4 @@ Through this project, I gained a lot of knowledge about Meteor’s functionality
 Beyond the React components and features of Meteor, this project taught me a lot about teamwork in Software Engineering. Previously to this project, I would only develop coding projects on my own. Using websites, like Github, to share my code was a very new experience for me. Github provides features that allow you to organize the tasks that need to be completed by each group member. Using this to-do feature really helped me and my team members stay on track on finishing our application by the deadline.
 This project has been a valuable experience for me and my Software Engineering career. I was opened to many opportunities through this project. Because of our constant commitment to this project, I hope that our application will go beyond ICS 314 and be used by many people within the UH community. I can’t wait to see what opportunities and challenges that we will face by continuing to work on this project in the future!
 
-Special thanks to my Hawaii Annual Code Challenge team: [Micah Tilton](https://www.linkedin.com/in/micah-tilton-0a4b65289) and [Kaylee Agorilla](https://www.linkedin.com/in/kayleeagorilla/)! 
-
-## Check out our project!
-- [GitHub Pages](https://darkmode-askus.github.io/)
-- [GitHub Repositories](https://github.com/darkmode-askus/darkmode-askus)
-- [Deployed Website](http://143.198.151.26/)
+Special thanks to my Hawaii Annual Code Challenge team: [Micah Tilton](https://www.linkedin.com/in/micah-tilton-0a4b65289) and [Kaylee Agorilla](https://www.linkedin.com/in/kayleeagorilla/)!
