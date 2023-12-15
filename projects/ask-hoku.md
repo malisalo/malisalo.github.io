@@ -13,6 +13,7 @@ labels:
 summary: "My team and I created a Chatbot that will respond to user's ITS related requests in conversational language. We placed 2nd place at the Hawaiian Annual Code Challenge for Coded solutions."
 ---
 <img src="../img/ask-hoku/hoku-pfp.png" width= "400">
+
 ## Check out our project!
 - [GitHub Pages](https://darkmode-askus.github.io/)
 - [GitHub Repositories](https://github.com/darkmode-askus/darkmode-askus)
