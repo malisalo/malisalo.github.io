@@ -4,7 +4,7 @@ type: project
 image: img/
 title: "Augmented Reality Tamagotchi Simulator"
 date: 2024
-published: false
+published: true
 labels:
   - Augmented Reality
   - Game Design
