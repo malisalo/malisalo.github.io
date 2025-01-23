@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/dragon.jpeg
 title: "Augmented Reality Tamagotchi Simulator"
 date: 2024
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "I created an augmented reality simulator inspired by Tamagotchi games."
 ---
 <video width="600" controls>
-  <source src="../video/ar_tamagotchi_video.mp4" type="video/webm">
+  <source src="../video/ar_tamagotchi_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
