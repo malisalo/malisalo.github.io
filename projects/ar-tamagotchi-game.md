@@ -13,10 +13,10 @@ labels:
 
 summary: "I created an augmented reality simulator inspired by Tamagotchi games."
 ---
-<video width="600" controls>
+<!-- <video width="600" controls>
   <source src="../video/ar_tamagotchi_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 Everyone loves the handheld digital pets Tamagotchi. But what if you could expand that concept to bring your pet directly into your room?
 
